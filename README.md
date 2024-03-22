@@ -1,9 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naina+Rajan!;" />
 </h1>
-<h3 align="center">I am a Software Developer </h3>
+<h2 align="center">Expert Front-end Engineer with 5+ years of professional experience, specializing in API Integration and Performance Optimization with a Strong
+Command of Latest Libraries and Frameworks</h2>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🎓 Graduate degree in Information Systems at Northeastern University
+
+- 💡 I'm a fervent learner, always exploring the latest tech trend, I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available here at GitHub
 
@@ -13,9 +16,12 @@
 <hr/>
 <h2 align="center">⚡ Connect with me ⚡</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/nainarajan/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nainarajan/" height="30" width="40" />
-</a>
+    <a href="https://www.linkedin.com/in/nainarajan/" target="blank">
+         <img src="https://skillicons.dev/icons?i=linkedin" />   
+    </a>
+    <a href="mailto:nainarajan44@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
 </p>
 
 <hr/>
@@ -29,7 +35,16 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <h2>🚀 My Contributions 🚀</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/naina-neu/naina-neu/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<h2 align="center">📊 Stats 📊</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naina-neu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -41,6 +56,10 @@
 <br/><br/>
 
 <hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Keep+Learning!+💪;+Thank+you+for+visting!;" />
+</h1>
 
 <!--
 **naina-neu/naina-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
