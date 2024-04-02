@@ -10,6 +10,9 @@ Command of Latest Libraries and Frameworks</h2>
 
 - 👨‍💻 All of my projects are available here at GitHub
 
+- 👨‍💻 Check out my personal portfolio : <a href="https://nainarajan.netlify.app/" target="_blank">Portfolio</a>
+
+
 - 📫 How to reach me **nainarajan44@gmail.com**
 
 - 😄 Pronouns: She/Her
