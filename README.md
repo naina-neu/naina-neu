@@ -10,7 +10,7 @@ Command of Latest Libraries and Frameworks</h2>
 
 - 👨‍💻 All of my projects are available here at GitHub
 
-- 👨‍💻 Check out my personal portfolio : <a href="https://nainarajan.netlify.app/" target="_blank">Portfolio</a>
+- 👨‍💻 Check out my personal portfolio : <b><a href="https://nainarajan.netlify.app/" target="_blank">Portfolio</a></b>
 
 
 - 📫 How to reach me **nainarajan44@gmail.com**
